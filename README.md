@@ -1,1 +1,2 @@
 # Generics
+There is a big date gap between this program and my last one. In this program, I dove into the world of generics, which was easier than I thought. Not that it means it was a breeze either. In the TriPrismDemo, which is the main method, it gives value to three private variables from the TriPrism class. That value then gets printed out, along with the calculation of the volume of both Triangular Prisms. The first prism contains integer values while the second one contains double.
